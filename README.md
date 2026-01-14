@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-CE412B?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-4F7CFF?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AlpineLinux-243853?logo=alpinelinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine-243853?logo=alpinelinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-CE0056?logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-0B57A4?logo=fedora&logoColor=white" />
