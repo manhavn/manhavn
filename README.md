@@ -85,7 +85,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhavn&radius=0&bg_color=0000&color=0cc" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhavn&radius=0&bg_color=0000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" />
 </p>
 
 
