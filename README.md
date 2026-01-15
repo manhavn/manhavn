@@ -93,14 +93,14 @@ Here are some ideas to get you started:
   <a href="https://gravatar.com/manhavn">Gravatar</a>
 </p>
 
+<!-- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/manhavn/manhavn/refs/heads/main/go_vs_rust_1s.gif" />
 </p>
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhavn&radius=12" />
 </p>
