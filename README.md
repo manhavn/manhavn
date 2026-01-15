@@ -1,20 +1,3 @@
-<!--
-**manhavn/manhavn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Profile README for: manhavn -->
-
 <h1 align="center">Hi, I'm Bùi Văn Mạnh 👋</h1>
 
 <p align="center">
@@ -102,7 +85,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhavn&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhavn&radius=12&bg_color=000000" />
 </p>
 
 
