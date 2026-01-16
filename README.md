@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/MySQL-00758f?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-3FA037?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/InfluxDB-0046FE?logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-7D66FF?logo=duckdb&logoColor=white" />
 </p>
 
 <p align="center">
